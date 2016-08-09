@@ -1,4 +1,4 @@
-rack-sendmail
+rack-sendmail [![Build Status](https://travis-ci.org/nsommer/rack-sendmail.svg?branch=master)](https://travis-ci.org/nsommer/rack-sendmail)
 =============
 
 rack-sendmail is a minimalistic rack app for sending emails. It's written to
