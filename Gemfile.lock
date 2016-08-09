@@ -3,6 +3,7 @@ GEM
   specs:
     power_assert (0.2.6)
     rack (2.0.1)
+    rake (10.4.2)
     test-unit (3.1.5)
       power_assert
 
@@ -11,6 +12,7 @@ PLATFORMS
 
 DEPENDENCIES
   rack
+  rake
   test-unit
 
 BUNDLED WITH
